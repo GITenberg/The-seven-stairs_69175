@@ -1,0 +1,27 @@
+_repo: The-seven-stairs_69175
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brent, Stuart
+    gutenberg_agent_id: '55147'
+    url: http://www.gutenberg.org/2009/agents/55147
+description: ''
+gutenberg_issued: '2022-10-18'
+identifiers:
+  gutenberg: '69175'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015023551420
+pgterms:marc905: 20190904034059brent
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Guus Snijders, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: 'United States: Houghton Mifflin Company,1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The seven stairs
+url: http://www.gutenberg.org/ebooks/69175
